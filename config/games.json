@@ -3,31 +3,31 @@
     "name": "1v1lol",
     "image": "logo.png",
     "url": "1v1lol",
-    "new": false
+    "new": true
   },
   {
     "name": "1v1space",
     "image": "splash.png",
     "url": "1v1space",
-    "new": false
+    "new": true
   },
   {
     "name": "10 Minutes Till Dawn",
     "image": "splash.png",
     "url": "10-minutes-till-dawn",
-    "new": false
+    "new": true
   },
   {
     "name": "100ng",
     "image": "100ng.jpg",
     "url": "100ng",
-    "new": false
+    "new": true
   },
   {
     "name": "2048",
     "image": "2048.png",
     "url": "2048",
-    "new": false
+    "new": true
   },
   {
     "name": "2048 Multitask",
@@ -219,7 +219,7 @@
     "name": "Big Red Button",
     "image": "bigredbutton.png",
     "url": "bigredbutton",
-    "new": false
+    "new": true
   },
   {
     "name": "BitLife",
